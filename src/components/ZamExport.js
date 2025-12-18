@@ -4,8 +4,11 @@ export const restaurantConfig = {
     // Link to the main static menu image (place the image in public/assets/)
     menuImageUrls: [
                     'zamindar_m-pg-1.jpg',
-                    'zamindar_m-pg-2.jpg'
+                    'zamindar_m-pg-2.jpg',
+                    'zamindar_m-pg-3.jpg',
+                    'zamindar_m-pg-4.jpg'
     ] ,
+    phone: '+919642888994',
     // Link to the downloadable PDF (place the PDF in public/assets/)
     menuPdfUrl: 'Zamindar-Menu.pdf',
     google_reviewURL:'https://shorturl.at/8NgOB',

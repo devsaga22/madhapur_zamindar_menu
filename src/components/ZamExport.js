@@ -8,7 +8,7 @@ export const restaurantConfig = {
                     'zamindar_m-pg-3.jpg',
                     'zamindar_m-pg-4.jpg'
     ] ,
-    phone: '+919642888994',
+    phone: '+91-9642888994',
     // Link to the downloadable PDF (place the PDF in public/assets/)
     menuPdfUrl: 'Zamindar-Menu.pdf',
     google_reviewURL:'https://shorturl.at/8NgOB',

@@ -34,7 +34,7 @@ const Footer = () => {
                 {/* Icon and Phone Number are now forced side-by-side */}
                 <HiPhone className="h-5 w-5 shrink-0" />
 
-                <span className="hidden md:inline-block font-medium text-sm underline decoration-gray-400 underline-offset-4 hover:decoration-green-600">
+                <span className=" font-medium text-sm underline decoration-gray-400 underline-offset-4 hover:decoration-green-600">
                   {restaurantConfig.phone}
                 </span>
               </a>

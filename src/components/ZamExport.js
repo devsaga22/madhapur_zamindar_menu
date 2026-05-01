@@ -5,8 +5,8 @@ export const restaurantConfig = {
     menuImageUrls: [
                     'zamindar_m-pg-1.jpg',
                     'zamindar_m-pg-2.jpg',
-                    'zamindar_m-pg-3.jpg',
-                    'zamindar_m-pg-4.jpg'
+                    'zamindar_m-pg-3.png'
+                    
     ] ,
     phone: '+91-9642888994',
     // Link to the downloadable PDF (place the PDF in public/assets/)
